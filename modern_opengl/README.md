@@ -14,11 +14,11 @@ Então, instalei a biblioteca freeGlut e suas dependências no Ubuntu 20.4 utili
 
 ## Execução
 Para compilar o programa executei o comando:  
-<blockquote>gcc main.c -o exercicio1 -lglut -lGLU -lGL <blockquote>
+<blockquote>gcc main.c -o exercicio1 -lglut -lGLU -lGL </blockquote>
 
 ![img2](https://jeferson-wwe.000webhostapp.com/img-icg/img2.png)
 
-<blockquote>./exercicio1<blockquote>
+<blockquote>./exercicio1</blockquote>
 
 Na qual, resultou na compilação e execução do programa com sucesso:
 
