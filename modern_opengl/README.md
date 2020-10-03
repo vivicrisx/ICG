@@ -13,11 +13,11 @@ Então, instalei a biblioteca FreeGlut e suas dependências no Ubuntu 20.4 utili
 <blockquote> sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev  </blockquote>
 
 ## Execução
-Para compilar o programa executei os comandos:
-
-<blockquote>gcc main.c -o exercicio1 -lglut -lGLU -lGL <blockquote>
-<blockquote>./exercicio1<blockquote>
+Para compilar o programa executei os comandos: </br>
 **Onde main.c é o programa principial e o exercicio1 é o programa executável gerado.**
+<blockquote>gcc main.c -o exercicio1 -lglut -lGLU -lGL </blockquote>
+<blockquote>./exercicio1</blockquote>
+
 
 ![img2](https://jeferson-wwe.000webhostapp.com/img-icg/img2.png)
 
